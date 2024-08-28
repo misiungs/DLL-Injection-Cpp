@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLL-Injection-Cpp.vcxproj -> C:\Users\misiu\Documents\GitHub\DLL-Injection-Cpp\DLL-Injection-Cpp\x64\Release\DLL-Injection-Cpp.exe
